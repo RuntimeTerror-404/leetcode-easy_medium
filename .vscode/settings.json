@@ -1,6 +1,7 @@
 {
     "python.pythonPath": "C:\\Users\\mohit\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }
